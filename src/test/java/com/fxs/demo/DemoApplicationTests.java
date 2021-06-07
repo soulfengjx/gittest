@@ -10,7 +10,15 @@ class DemoApplicationTests {
     void contextLoads() {
         int i= 10;
         int b =19;
+        
+        
         System.out.println(123456+i+b);
+    }
+    
+    
+    void test222(){
+
+        System.out.println("1234567 = " + 1234567);
     }
 
 }
