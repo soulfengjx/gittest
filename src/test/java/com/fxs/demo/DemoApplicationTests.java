@@ -8,7 +8,7 @@ class DemoApplicationTests {
 
     @Test
     void contextLoads() {
-
+        int i= 10;
         System.out.println(123456);
     }
 
