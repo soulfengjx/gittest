@@ -9,7 +9,8 @@ class DemoApplicationTests {
     @Test
     void contextLoads() {
         int i= 10;
-        System.out.println(123456);
+        int b =19;
+        System.out.println(123456+i+b);
     }
 
 }
